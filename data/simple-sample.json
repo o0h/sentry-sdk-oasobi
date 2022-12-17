@@ -1,0 +1,15 @@
+{
+  "culprit": "my.module.function_name",
+  "transaction": "/user/{id}",
+  "timestamp": "2022-10-01T08:11:12+0900",
+  "message": "SyntaxError: Wattttt!",
+  "exception": {
+    "values": [
+      {
+        "type": "SyntaxError",
+        "value": "Wattttt!",
+        "module": "__builtins__"
+      }
+    ]
+  }
+}
